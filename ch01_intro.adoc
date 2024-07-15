@@ -23,9 +23,9 @@ transactions** that transfer value from **spender** to receiver. Users of
 Bitcoin control keys that allow them to **prove ownership of bitcoin** in the
 Bitcoin network. With these keys, they can sign transactions to unlock
 the value and spend it by transferring it to a new owner. Keys are often
-stored in a digital wallet on each user’s computer or smartphone.
-Possession of the key that can sign a transaction is the only
-prerequisite to spending bitcoin, putting the control entirely in the
+stored in **a digital wallet** on each user’s computer or smartphone.
+**Possession of the key** that can sign a transaction is **the only
+prerequisite** to spending bitcoin, putting the control entirely in the
 hands of each user.
 
 Bitcoin is a distributed, peer-to-peer system. As such, there is no
