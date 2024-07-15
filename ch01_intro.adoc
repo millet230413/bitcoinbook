@@ -11,7 +11,7 @@ and the system is called "Bitcoin," with a capital _B_.
 ====
 
 Users can transfer bitcoin over the network to do just about anything
-that can be done with conventional currencies, including buying and selling
+that can be done with **conventional** currencies, including buying and selling
 goods, sending money to people or organizations, or extending credit. Bitcoin
 can be purchased, sold, and exchanged for other currencies at
 specialized currency exchanges. Bitcoin is arguably the perfect form
