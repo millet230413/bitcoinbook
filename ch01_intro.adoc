@@ -14,8 +14,8 @@ Users can transfer bitcoin over the network to do just about anything
 that can be done with **conventional** currencies, including buying and selling
 goods, sending money to people or organizations, or extending credit. Bitcoin
 can be **purchased**, sold, and exchanged for other currencies at
-**specialized currency exchanges**. Bitcoin is arguably the perfect form
-of money for the internet because it is fast, secure, and borderless.
+**specialized currency exchanges**. Bitcoin is **arguably the perfect** form
+of money for the internet because it is fast, secure, and **borderless**.
 
 Unlike traditional currencies, the bitcoin currency is entirely virtual. There are no
 physical coins or even individual digital coins. The coins are implied in
