@@ -52,7 +52,7 @@ central bank.
 The Bitcoin protocol includes built-in algorithms that **regulate** the
 mining function across the network. The difficulty of the computational
 task that miners must perform is adjusted dynamically so that, on
-average, someone succeeds every 10 minutes regardless of how many miners
+average, someone succeeds every 10 minutes **regardless** of how many miners
 (and how much processing) are competing at any moment. The protocol also
 periodically decreases the number of new bitcoins that are created,
 limiting the total number of bitcoins that will ever be created to a fixed total
