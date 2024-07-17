@@ -49,7 +49,7 @@ central bank.
 //     print(i)
 //     break
 
-The Bitcoin protocol includes built-in algorithms that regulate the
+The Bitcoin protocol includes built-in algorithms that **regulate** the
 mining function across the network. The difficulty of the computational
 task that miners must perform is adjusted dynamically so that, on
 average, someone succeeds every 10 minutes regardless of how many miners
